@@ -1,0 +1,15 @@
+h1 {
+    padding-top: 10px;
+}
+
+#nome,
+#email,
+#tel,
+#mensagem {
+    margin-bottom: 10px;
+}
+
+.form-switch {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
